@@ -1,4 +1,4 @@
-TiRater  CommonJS Module
+TiRater  CommonJS Module ![alt tag](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)
 =======
 
 Rating module for titanium platform, the module work both Android and iOS
