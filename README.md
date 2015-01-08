@@ -8,6 +8,7 @@ Rating module for titanium platform, the module work both Android and iOS
  # 1- Copy TiRater.js to app name /app/lib folder
  # 2- 
  
+ ```
  $.index.addEventListener("open", function(e) {
  
   	 var  rater = require('TiRater');
@@ -15,6 +16,10 @@ Rating module for titanium platform, the module work both Android and iOS
  
 }); 
 
+```
+
+![alt tag](https://raw.githubusercontent.com/abada/TiRater/master/ios.png)
+![alt tag](https://raw.githubusercontent.com/abada/TiRater/master/android.png)
 
 The Original module is https://github.com/raulriera/Rater-Module/
 
