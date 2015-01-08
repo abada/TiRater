@@ -6,6 +6,8 @@ Rating module for titanium platform, the module work both Android and iOS
  //-- Usage 
  
  # 1- Copy TiRater.js to app name /app/lib folder
+ 
+ 
  # 2- 
  
  ```
